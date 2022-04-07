@@ -1,6 +1,8 @@
-Version 3.40. Changelog:
+Version 3.50. Changelog:
 
->Update the base to the latest version in Google Play 22.3.3
->Fixed the problem of the app has stopped
+>Update the base to the latest version in Google Play 23.7.3
+> Fixed a problem logging in with a Google account
+> Fixed a problem logging in via Facebook
+> Fixed a problem logging in via VK
 >Adding a lot of new features
 >Bugs Fixed
