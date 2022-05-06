@@ -1,8 +1,18 @@
-Version 3.50. Changelog:
+Version 3.60.
 
->Update the base to the latest version in Google Play 23.7.3
-> Fixed a problem logging in with a Google account
-> Fixed a problem logging in via Facebook
-> Fixed a problem logging in via VK
->Adding a lot of new features
->Bugs Fixed
+what's new:
+
+> The base has been updated to the latest version in Google Play 24.3.1.
+> All new Tik Tok features have been added.
+> Disable autoplay
+> Enable high quality audio
+> Enable high quality video
+> Enable Ultra HD
+> Enable anti-aliasing effect
+> Disable notification locks
+> Improved graphics
+> Optimize battery drain
+> Rewind is now available in any video
+> Fix Facebook Permissions
+> Fix VK . Permissions
+> Other fixes and improvements
