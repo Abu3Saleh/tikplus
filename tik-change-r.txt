@@ -1,13 +1,10 @@
-Version 3.70. Changelog: 
+Version 3.80. Changelog: 
 
->Update the base to the latest version in Google Play 24.4.5 
+>Update the base to the latest version in Google Play 25.0.3
 >Optimized graphics 
->Disabled unnecessary activities 
->Enabled High Quality Audio 
->Battery drain optimization 
->Enabled High Quality Video 
->Enabled Ultra Resolution 
->Disabled autostart 
->Enabled Anti Aliasing 
->Disabled wakelocks 
+Fixed the issue where some users were seeing ads 
+>Fix crash when clicking ok for some users on app startup 
+>Fixed the problem of notifications now appearing 
+>Fixed the crash problem when opening the application on some devices 
+>Other improvements
 >Bugs Fixed
