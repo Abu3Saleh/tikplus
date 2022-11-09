@@ -1,10 +1,11 @@
-Version 3.80. Changelog: 
+Version 3.90. 
 
->Update the base to the latest version in Google Play 25.0.3
->Optimized graphics 
-Fixed the issue where some users were seeing ads 
->Fix crash when clicking ok for some users on app startup 
->Fixed the problem of notifications now appearing 
->Fixed the crash problem when opening the application on some devices 
->Other improvements
->Bugs Fixed
+what's new:
+
+> The rule has been updated to the latest version in Google Play 26.6.4.
+> All new Tik Tok features have been added.
+> Added new exciting app icon.
+> Improved ad blocking system.
+> Improved code.
+> Twitter login fix.
+> Other important fixes and improvements.
