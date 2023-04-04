@@ -1,8 +1,8 @@
-Version 3.90. 
+Version 4.50. 
 
 what's new:
 
-> The rule has been updated to the latest version in Google Play 26.6.4.
+> The rule has been updated to the latest version in Google Play 28.6.3.
 > All new Tik Tok features have been added.
 > Added new exciting app icon.
 > Improved ad blocking system.
