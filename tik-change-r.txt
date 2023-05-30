@@ -1,11 +1,10 @@
-Version 4.50. 
 
-what's new:
+What's new in version v4.60 
 
-> The rule has been updated to the latest version in Google Play 28.6.3.
-> All new Tik Tok features have been added.
-> Added new exciting app icon.
-> Improved ad blocking system.
-> Improved code.
-> Twitter login fix.
-> Other important fixes and improvements.
+Added a partially dark mode which can be turned on if you use certain firmware such as MIUI, ColorOS, etc.
+Simultaneous translations with Crowdin
+Activate the automatic winding option , and also announce that there will be an amazing change soon
+Stability improvements
+Return the lost "Roboto" line
+Fix broken data collection and sending it to TikTok server
+Significant fixes and improvements in the speed of the application
