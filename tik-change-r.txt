@@ -1,5 +1,5 @@
 
-What's new in version v4.60 
+What's new in version v4.90 
 
 Added a partially dark mode which can be turned on if you use certain firmware such as MIUI, ColorOS, etc.
 Simultaneous translations with Crowdin
