@@ -1,10 +1,4 @@
+Exciting new update Version V9.10 now available.
 
-What's new in version v9.10
-
-Added a partially dark mode which can be turned on if you use certain firmware such as MIUI, ColorOS, etc.
-Simultaneous translations with Crowdin
-Activate the automatic winding option , and also announce that there will be an amazing change soon
-Stability improvements
-Return the lost "Roboto" line
-Fix broken data collection and sending it to TikTok server
-Significant fixes and improvements in the speed of the application
+Includes many new fantastic features.
+Additional fixes and improvements.
